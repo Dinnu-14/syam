@@ -213,7 +213,8 @@ background: radial-gradient(circle, rgba(174, 238, 196, 1) 0%, rgba(148, 187, 23
   nav ul {
     display: none;
     flex-direction: column;
-    background: #dbba91;
+    background: #aeeec4;
+background: radial-gradient(circle, rgba(174, 238, 196, 1) 0%, rgba(148, 187, 233, 1) 100%);
     width: 100%;
   }
 
